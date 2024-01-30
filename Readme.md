@@ -121,7 +121,7 @@ $npm install
 - create the [cloudinary](https://cloudinary.com/users/register_free) account(free version)
 - get the cloudinary credential
 
-
+```
 
 in the .env file
 
@@ -133,7 +133,6 @@ ACCESS_TOKEN_SECRET="yours secret key"
 ACCESS_TOKEN_EXPIRY="yours secret key"
 REFRESH_TOKEN_SECRET="yours secret key"
 REFRESH_TOKEN_EXPIRY="yours secret key"
-
 CLOUDINARY_CLOUD_NAME="your cloud name"
 CLOUDINARY_API_KEY=your-api-key
 CLOUDINARY_API_SECRET=your-api-secret
